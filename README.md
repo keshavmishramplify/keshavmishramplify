@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keshav Kumar Mishra</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from India | Lifelong Learner</h3>
+<h3 align="center">💻 Software Developer | Full Stack & Test Automation Enthusiast | India 🇮🇳</h3>
+<h4 align="center">Building performant web apps and automating the digital experience 🚀</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keshavmishramplify&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 ---
 
