@@ -9,11 +9,14 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB**
-- ⚡ Fun Facts:  
-  - 🎯 I love exploring new technologies and frameworks  
-  - 🍳 Cooking, 🏃‍♂️ Running, 🏏 Cricket keep me energized  
+- 💼 I'm currently working as a **Software Developer** at **Mplify Tech Services Pvt. Ltd** (since Oct 2022)
+- 🧠 Passionate about building robust, scalable, and user-friendly web applications
+- 🛠️ My tech stack includes **React.js, Next.js, Node.js, Express, MongoDB, MySQL, TypeScript, JavaScript, HTML/CSS**
+- 🧪 Experience with modern automation frameworks like **Playwright, Cypress, Mocha, and CodeceptJS**
+- ☁️ Comfortable working with cloud platforms and tools like **AWS, Postman, Git, JIRA, Kibana, Testrail**
+- 💬 I love discussing topics like **frontend architecture, backend APIs, and automation testing**
+- 🚀 Eager to continuously learn and contribute to challenging, impact-driven projects
+- 🎯 Outside of work: I enjoy **cooking**, **running**, **playing cricket**, and exploring **emerging technologies** like **Web 3.0** and **IoT**
 - 📫 Reach me at: **Keshavmishra0018@gmail.com**
 - 📄 [Check out my resume](https://drive.google.com/file/d/1R9tEGy-iH8VPgtk979iE0aKNM-cMOogq/view?usp=sharing)
 
