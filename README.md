@@ -56,10 +56,10 @@
 
 ---
 
-### ⏳ GitHub Contributions
+### 📊 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=keshavmishramplify&color=blue" />
+  <img src="https://ghchart.rshah.org/keshavmishramplify" alt="GitHub Contribution Graph" />
 </p>
 
 ---
