@@ -11,16 +11,20 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm currently working as a **Software Developer** at **Mplify Tech Services Pvt. Ltd** (since Oct 2022)
-- 🧠 Passionate about building robust, scalable, and user-friendly web applications
-- 🛠️ My tech stack includes **React.js, Next.js, Node.js, Express, MongoDB, MySQL, TypeScript, JavaScript, HTML/CSS**
-- 🧪 Experience with modern automation frameworks like **Playwright, Cypress, Mocha, and CodeceptJS**
-- ☁️ Comfortable working with cloud platforms and tools like **AWS, Postman, Git, JIRA, Kibana, Testrail**
-- 💬 I love discussing topics like **frontend architecture, backend APIs, and automation testing**
-- 🚀 Eager to continuously learn and contribute to challenging, impact-driven projects
-- 🎯 Outside of work: I enjoy **cooking**, **running**, **playing cricket**, and exploring **emerging technologies** like **Web 3.0** and **IoT**
+- 💼 I'm currently working as a **Software Developer** at **Mplify Tech Services Pvt. Ltd.** (since Oct 2022)
+- 🧠 Results-driven developer with a passion for building robust, user-centric, and scalable web applications
+- 🛠️ My tech stack includes:
+  - **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript
+  - **Backend:** Node.js, Express.js, Core Java, Spring Boot, Microservices
+  - **Databases:** MongoDB, MySQL
+  - **Tools & Platforms:** Git, Postman, JIRA, Kibana, AWS, GitLab, Trello, Visual Studio Code
+- 🌐 Worked on dynamic projects like management consoles, bulk mailing systems, SEO-optimized websites, and refurbished product platforms
+- 🚀 I thrive in agile environments and love contributing to impactful, collaborative projects
+- 💬 I'm always open to discussions around **frontend architecture**, **API design**, **microservice systems**, and **performance optimization**
+- 🎯 Outside of work, I enjoy **cooking**, **running**, **playing cricket**, and exploring technologies like **Web 3.0** and **IoT**
 - 📫 Reach me at: **Keshavmishra0018@gmail.com**
 - 📄 [Check out my resume](https://drive.google.com/file/d/1R9tEGy-iH8VPgtk979iE0aKNM-cMOogq/view?usp=sharing)
+
 
 ---
 
