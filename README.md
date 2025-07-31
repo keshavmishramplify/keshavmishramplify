@@ -23,7 +23,7 @@
 - 💬 I'm always open to discussions around **frontend architecture**, **API design**, **microservice systems**, and **performance optimization**
 - 🎯 Outside of work, I enjoy **cooking**, **running**, **playing cricket**, and exploring technologies like **Web 3.0** and **IoT**
 - 📫 Reach me at: **Keshavmishra0018@gmail.com**
-- 📄 [Check out my resume](https://drive.google.com/file/d/1R9tEGy-iH8VPgtk979iE0aKNM-cMOogq/view?usp=sharing)
+- 📄 [Check out my resume](https://drive.google.com/file/d/105yYvBLsNN1iebZv_9ZjJfGdNuzPH6V5/view?usp=sharing)
 
 
 ---
