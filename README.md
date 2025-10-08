@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavmishramplify&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavmishramplify&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Keshav Mishra's GitHub Stats" />
 </p>
 
 <p align="center">
