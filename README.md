@@ -66,7 +66,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavmishramplify&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavmishramplify&theme=react-light" alt="GitHub Activity Graph" />
 </p>
 
 ---
