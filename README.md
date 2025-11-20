@@ -15,7 +15,7 @@
 - 🛠️ **Tech Stack:**
   - **Frontend:** React.js · Next.js · HTML5 · CSS3 · JavaScript · TypeScript
   - **Backend:** Node.js · Express.js · Java · Spring Boot · Microservices
-  - **Databases:** MongoDB · MySQL
+  - **Databases:** MongoDB · MySQL . PostgreSQL
   - **Tools:** Git · Postman · JIRA · Kibana · AWS · GitLab · Trello · VS Code
 - 🌟 Experienced in management consoles, SEO-ready websites, bulk mailers, and product platforms
 - 💬 Love discussions on **frontend architecture**, **API design**, **microservices**, and **performance tuning**
