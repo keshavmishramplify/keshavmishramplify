@@ -3,7 +3,7 @@
 <h4 align="center">Crafting performant web apps & automating the digital experience 🚀</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshavmishramplify&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=devkeshavmishra&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🛠️ **Tech Stack:**
   - **Frontend:** React.js · Next.js · HTML5 · CSS3 · JavaScript · TypeScript
   - **Backend:** Node.js · Express.js · Java · Spring Boot · Microservices
-  - **Databases:** MongoDB · MySQL . PostgreSQL
+  - **Databases:** MongoDB · MySQL · PostgreSQL
   - **Tools:** Git · Postman · JIRA · Kibana · AWS · GitLab · Trello · VS Code
 - 🌟 Experienced in management consoles, SEO-ready websites, bulk mailers, and product platforms
 - 💬 Love discussions on **frontend architecture**, **API design**, **microservices**, and **performance tuning**
@@ -30,7 +30,7 @@
 <p align="center">
   <a href="mailto:Keshavmishra0018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/keshav-mishra-512316197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/keshavmishramplify" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/devkeshavmishra" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,19 +46,19 @@
 ## 🏆 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshavmishramplify&theme=algolia&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devkeshavmishra&theme=algolia&no-bg=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=keshavmishramplify&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=devkeshavmishra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavmishramplify&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Keshav Mishra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devkeshavmishra&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavmishramplify&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkeshavmishra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavmishramplify&theme=react-light" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkeshavmishra&theme=react-light" alt="GitHub Activity Graph" />
 </p>
 
 ---
